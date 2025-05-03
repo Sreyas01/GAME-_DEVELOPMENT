@@ -1,9 +1,5 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
-
-REG NO: 212224040194
-
 **AIM :**
 
 
@@ -111,6 +107,8 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
   return 0;
  
 }
+Developed by:M.Sreyas
+Register no: 212224040323
 ```
 
 
